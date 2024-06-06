@@ -1,0 +1,21 @@
+{
+   "AppID" : "6D1949CB-2376-469b-9F10-8C9D343B30FC",
+   "BestResolution" : {
+      "X" : 0,
+      "Y" : 0
+   },
+   "ChangeFileList" : 0,
+   "Description" : "",
+   "FileVersion" : {
+      ".atc" : 0,
+      ".mq" : 0,
+      ".prop" : 0,
+      ".rtd" : 0,
+      ".uip" : 0,
+      ".uis" : 0
+   },
+   "Name" : "江城辅助(新验证)",
+   "SelID" : 260681,
+   "Version" : "1693793661",
+   "id" : "baf96394-e5dc-4d85-ba74-f168c8640d69"
+}
